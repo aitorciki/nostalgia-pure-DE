@@ -17,4 +17,8 @@ The original theme relies on features unique to batocera-emulationstation's them
 
 ## Known issues
 
-EmulationStation-DE 2.0 is in alpha state and under heavy development, the new theming engine is not considered stable and things might break. Notably, as of today system videos might randomly fail to start playing on app launch until a new system is selected. This and other bugs will be ironed out as 2.0 gets closer to stable.
+EmulationStation-DE 2.0 is in alpha stage and under heavy development, the new theming engine is not considered stable and things might break. Notably, as of today system videos might randomly fail to start playing on app launch until a new system is selected. This and other bugs will be ironed out as 2.0 gets closer to stable.
+
+## Video (click to watch on Youtube)
+
+[![Watch the video](https://img.youtube.com/vi/APlsEYw5UJc/maxresdefault.jpg)](https://youtu.be/APlsEYw5UJc)
