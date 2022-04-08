@@ -11,6 +11,15 @@
             <fadeInTime>0</fadeInTime>
         </video>
 
+        <!-- avoid on-scroll video flickering by rendering a background image behind -->
+        <image name="background_video_fallback">
+            <path>./_assets/fallbacks/${system.theme}.png</path>
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <zIndex>20</zIndex>
+        </image>
+
         <image name="background">
             <tile>false</tile>
             <path>./_assets/system-global-bg.png</path>
