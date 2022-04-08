@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>GAME GENRE</text>
+        </text>
+        <text name="long_description">
+            <text>In a fighting game, the player engages in close combat with an AI or player-controlled opponent.</text>
+        </text>
+    </view>
+</theme>

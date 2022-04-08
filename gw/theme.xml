@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>HANDHELD ELECTRONIC GAMES</text>
+        </text>
+        <text name="long_description">
+            <text>Line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi.</text>
+        </text>
+    </view>
+</theme>

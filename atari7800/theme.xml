@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1986 · 8-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>Almost fully backward-compatible with the Atari 2600, the 7800 was the first console to have backward compatibility without the use of additional modules.</text>
+        </text>
+    </view>
+</theme>

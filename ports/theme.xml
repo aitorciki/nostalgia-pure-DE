@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>SOFTWARE</text>
+        </text>
+        <text name="long_description">
+            <text>Multi-platform ports of software and game engines from PC to DOS.</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1998 · '128-BIT' CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The Dreamcast was Sega's final home console, marking the end of the company's 18 years in the console market.</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1979 · 8-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>The Atari 8-bit family is a series of 8-bit home computers. All of the machines in the family are technically similar and differ primarily in packaging.</text>
+        </text>
+    </view>
+</theme>

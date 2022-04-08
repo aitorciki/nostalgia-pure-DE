@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1989 · 8-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>The SAM Coupé is a British home computer and was marketed as a logical upgrade from the Spectrum.</text>
+        </text>
+    </view>
+</theme>

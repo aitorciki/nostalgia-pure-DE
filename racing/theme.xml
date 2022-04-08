@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>GAME GENRE</text>
+        </text>
+        <text name="long_description">
+            <text>In racing games the player partakes in competitions with any type of land, water, air or space vehicles, either real or fictional.</text>
+        </text>
+    </view>
+</theme>

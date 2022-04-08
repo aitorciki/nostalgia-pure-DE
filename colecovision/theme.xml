@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1982 · 8-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The ColecoVision offered a closer experience to more powerful arcade game systems compared to competitors such as the Atari 2600.</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1980 · 8-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>The TRS-80 Color Computer (affectionately nicknamed CoCo) lasted through three generations of hardware until being discontinued in 1991.</text>
+        </text>
+    </view>
+</theme>

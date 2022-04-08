@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1977 · 8-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>One of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak.</text>
+        </text>
+    </view>
+</theme>

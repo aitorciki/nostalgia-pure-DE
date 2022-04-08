@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1990 · 16-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>Nintendo's second home console introduced advanced graphics and sound capabilities compared with other systems at the time.</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>CUSTOM COLLECTIONS</text>
+        </text>
+        <text name="long_description">
+            <text>Access and quickly play games you have added to your custom collections.</text>
+        </text>
+    </view>
+</theme>

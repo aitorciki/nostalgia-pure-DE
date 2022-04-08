@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1983 · LASERDISCS CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>Converged device and home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs.</text>
+        </text>
+    </view>
+</theme>

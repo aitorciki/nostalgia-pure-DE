@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1981 · 8-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>The PC-8800 series, commonly shortened to PC-88, are a brand of Zilog Z80-based home computers released by NEC.</text>
+        </text>
+    </view>
+</theme>

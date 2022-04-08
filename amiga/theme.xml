@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1985 · 16-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>The original model was part of a wave of 16 and 32 bit computers that featured 256KB or more of RAM, mouse-based GUIs, and improved graphics & audio.</text>
+        </text>
+    </view>
+</theme>

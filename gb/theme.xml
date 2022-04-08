@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1989 · 8-BIT HANDHELD CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>Nintendo's second handheld system following the Game & Watch series. It mainly competed with Game Gear and Lynx.</text>
+        </text>
+    </view>
+</theme>

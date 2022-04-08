@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1986 · 8-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The Family Computer is a peripheral for Nintendo's Family Computer home video game console, released only in Japan.</text>
+        </text>
+    </view>
+</theme>

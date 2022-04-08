@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1982 · 8-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>The Spectrum was among the first mainstream-audience home computers in the UK, similar in significance to the Commodore 64 in the USA.</text>
+        </text>
+    </view>
+</theme>

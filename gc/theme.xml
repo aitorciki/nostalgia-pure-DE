@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>2001 · '128-BIT' CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The Nintendo GameCube is the successor to the Nintendo 64 and is the first Nintendo console to use optical discs as its primary storage medium.</text>
+        </text>
+    </view>
+</theme>

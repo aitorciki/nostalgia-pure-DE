@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>MULTI HARDWARE EMULATOR</text>
+        </text>
+        <text name="long_description">
+            <text>MESS (Multi Emulator Super System) is a system that emulates a vast quantity of obscure hardware.</text>
+        </text>
+    </view>
+</theme>

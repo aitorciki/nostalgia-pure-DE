@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>SYSTEM CONFIGURATION</text>
+        </text>
+        <text name="long_description">
+            <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes.</text>
+        </text>
+    </view>
+</theme>

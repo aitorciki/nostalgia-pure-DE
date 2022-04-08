@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1993 · COIN OPERATED CABINET</text>
+        </text>
+        <text name="long_description">
+            <text>The Sega Model 2 is an arcade system board released by Sega in 1993. The Model 2 featured some of the highest grossing arcade games of all time.</text>
+        </text>
+    </view>
+</theme>

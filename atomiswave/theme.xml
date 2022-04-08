@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>2003 · COIN OPERATED CABINET</text>
+        </text>
+        <text name="long_description">
+            <text>The Atomiswave is a custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's NAOMI system board.</text>
+        </text>
+    </view>
+</theme>

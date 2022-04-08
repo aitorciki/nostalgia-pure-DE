@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>VIRTUAL PINBALL</text>
+        </text>
+        <text name="long_description">
+            <text>Future Pinball is a freeware 3D pinball editing and gaming application for Microsoft Windows.</text>
+        </text>
+    </view>
+</theme>

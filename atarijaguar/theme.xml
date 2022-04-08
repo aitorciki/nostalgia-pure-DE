@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1993 · 64-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>Sixth and last programmable console to be developed under the Atari brand, Atari marketed the Jaguar as being the first 64-bit video game console.</text>
+        </text>
+    </view>
+</theme>

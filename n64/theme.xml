@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1996 · 64-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch.</text>
+        </text>
+    </view>
+</theme>

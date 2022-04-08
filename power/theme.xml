@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>SHUT DOWN MENU</text>
+        </text>
+        <text name="long_description">
+            <text>Safe option to Shut down or restart your System.</text>
+        </text>
+    </view>
+</theme>

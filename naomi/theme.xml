@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1998 · COIN OPERATED CABINET</text>
+        </text>
+        <text name="long_description">
+            <text>The NAOMI (New Arcade Operation Machine Idea) is the successor to the Sega Model 3.</text>
+        </text>
+    </view>
+</theme>

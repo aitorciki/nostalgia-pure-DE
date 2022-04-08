@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1990 · 24-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>Originally launched as the MVS coin-operated arcade machine. It was ranked 19th out of 25 best video game consoles of all time.</text>
+        </text>
+    </view>
+</theme>

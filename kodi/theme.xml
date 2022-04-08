@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>STREAMING VIDEO SERVICE</text>
+        </text>
+        <text name="long_description">
+            <text>Kodi is an award-winning free and open source cross-platform software media player and entertainment hub for digital media for HTPCs.</text>
+        </text>
+    </view>
+</theme>

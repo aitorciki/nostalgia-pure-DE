@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1991 · 16-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>CD-ROM add-on to the Genesis, it launched many FMV games, including the infamous Night Trap, which led to the creation of the ESRB.</text>
+        </text>
+    </view>
+</theme>

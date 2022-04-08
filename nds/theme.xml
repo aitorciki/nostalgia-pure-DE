@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>2004 · 32-BIT HANDHELD CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The Nintendo DS is a dual-screen handheld game console developed and released by Nintendo that featured two LCD screens working in tandem.</text>
+        </text>
+    </view>
+</theme>

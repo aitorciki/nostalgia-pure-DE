@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1995 · 32-BIT TABLE-TOP CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>It was marketed as the first console capable of displaying stereoscopic 3D graphics using a parallax effect to create the illusion of depth.</text>
+        </text>
+    </view>
+</theme>

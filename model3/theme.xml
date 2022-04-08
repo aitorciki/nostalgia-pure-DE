@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1996 · COIN OPERATED CABINET</text>
+        </text>
+        <text name="long_description">
+            <text>It was first unveiled at the 1996 AOU show. Upon release, the Model 3 was easily the most powerful arcade system board in existence.</text>
+        </text>
+    </view>
+</theme>

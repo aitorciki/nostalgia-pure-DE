@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1981 · 16-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>Released by Texas Instruments, the TI-99/4 series holds the distinction of being the first 16-bit personal computer.</text>
+        </text>
+    </view>
+</theme>

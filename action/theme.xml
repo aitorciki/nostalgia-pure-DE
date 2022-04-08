@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>GAME GENRE</text>
+        </text>
+        <text name="long_description">
+            <text>An action game emphasizes physical challenges, including hand–eye coordination and reaction-time.</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1984 · 8-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>The Macintosh 128K, originally released as the Apple Macintosh, is the original Apple Macintosh personal computer.</text>
+        </text>
+    </view>
+</theme>

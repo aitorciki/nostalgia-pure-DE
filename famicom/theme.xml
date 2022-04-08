@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1986 · 8-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The Family Computer (also known by the portmanteau abbreviation Famicom) was the Japanese version of the Nintendo Entertainment System.</text>
+        </text>
+    </view>
+</theme>

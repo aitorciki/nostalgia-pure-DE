@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1990 · 8-BIT HANDHELD CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The Game Gear shares much of its hardware with the Master System and is able to play its own titles as well as those of the Master System.</text>
+        </text>
+    </view>
+</theme>

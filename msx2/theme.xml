@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1984 · 16-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>MSX2 is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers.</text>
+        </text>
+    </view>
+</theme>

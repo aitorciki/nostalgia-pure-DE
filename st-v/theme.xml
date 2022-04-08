@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1994 · COIN OPERATED CABINET</text>
+        </text>
+        <text name="long_description">
+            <text>ST-V (Sega Titan Video game system) is an arcade system board, Sega's ST-V is essentially identical to the Sega Saturn home console system.</text>
+        </text>
+    </view>
+</theme>

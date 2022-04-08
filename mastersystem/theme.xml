@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1985 · 8-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>Succeeding the SG-1000, the Master System was released as a direct competitor to the Nintendo Entertainment System (NES).</text>
+        </text>
+    </view>
+</theme>

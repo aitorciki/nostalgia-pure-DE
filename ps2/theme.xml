@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>2000 · '128-BIT' CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units.</text>
+        </text>
+    </view>
+</theme>

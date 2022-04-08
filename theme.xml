@@ -1,0 +1,212 @@
+<theme>
+    <include>./navigationsounds.xml</include>
+
+    <view name="system">
+        <video name="background_video">
+            <path>./_assets/backgrounds/${system.theme}.mp4</path>
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <delay>0</delay>
+            <fadeInTime>0</fadeInTime>
+        </video>
+
+        <image name="background">
+            <tile>false</tile>
+            <path>./_assets/system-global-bg.png</path>
+            <size>1 1</size>
+            <pos>0 0</pos>
+            <zIndex>35</zIndex>
+        </image>
+
+        <text name="short_description">
+            <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+            <horizontalAlignment>center</horizontalAlignment>
+            <letterCase>uppercase</letterCase>
+            <fontSize>0.03</fontSize>
+            <color>FFFFFF</color>
+            <origin>0.5 0.5</origin>
+            <pos>0.232 0.25</pos>
+            <size>0.32 0.1</size>
+        </text>
+
+        <carousel name="system_carousel">
+            <type>vertical_wheel</type>
+            <color>00000000</color>
+            <origin>0.5 0.5</origin>
+            <pos>0.232 0.415</pos>
+            <size>1 0.16</size>
+            <logo>./_assets/logos/${system.theme}.svg</logo>
+            <logoScale>0.75</logoScale>
+            <logoSize>0.32 0.20</logoSize>
+            <logoRotationOrigin>100 0.5</logoRotationOrigin>
+            <logoRotation>0.5</logoRotation>
+            <maxLogoCount>2</maxLogoCount>
+        </carousel>
+
+        <text name="system_info">
+            <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+            <horizontalAlignment>center</horizontalAlignment>
+            <letterCase>uppercase</letterCase>
+            <backgroundColor>00000000</backgroundColor>
+            <color>FFFFFF</color>
+            <origin>0.5 0.5</origin>
+            <pos>0.232 0.77</pos>
+            <size>0.980 0.050</size>
+            <fontSize>0.025</fontSize>
+            <systemdata>gamecount</systemdata>
+        </text>
+
+        <text name="long_description">
+            <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+            <horizontalAlignment>center</horizontalAlignment>
+            <fontSize>0.02</fontSize>
+            <color>666666</color>
+            <origin>0.5 0.5</origin>
+            <pos>0.232 0.58</pos>
+            <size>0.20 0.1</size>
+        </text>
+    </view>
+
+    <view name="gamelist">
+        <image name="background">
+            <tile>false</tile>
+            <path>./_assets/ingame-global-bg.png</path>
+            <size>1 1</size>
+            <pos>0 0</pos>
+        </image>
+
+        <image name="logo">
+            <path>./_assets/logos/${system.theme}.svg</path>
+            <color>ffffff</color>
+            <origin>0.5 0.5</origin>
+            <pos>0.268 0.13</pos>
+            <maxSize>0.24 0.10</maxSize>
+        </image>
+
+        <textlist name="list">
+            <selectorColor>ffffff</selectorColor>
+            <selectorImagePath>./_assets/icon.png</selectorImagePath>
+            <selectedColor>FFFFFF</selectedColor>
+            <selectorHeight>.04</selectorHeight>
+            <primaryColor>bbbbbb</primaryColor>
+            <secondaryColor>bbbbbb</secondaryColor>
+            <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+            <horizontalAlignment>left</horizontalAlignment>
+            <letterCase>uppercase</letterCase>
+            <pos>0.07 0.264</pos>
+            <size>0.395 0.62</size>
+            <fontSize>0.022</fontSize>
+            <lineSpacing>1.54</lineSpacing>
+            <horizontalMargin>0.05</horizontalMargin>
+        </textlist>
+
+        <text name="md_lbl_genre, md_genre, md_lbl_releasedate, md_lbl_developer, md_developer, md_lbl_players, md_players, md_lbl_rating">
+            <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+            <letterCase>capitalize</letterCase>
+            <fontSize>0.02</fontSize>
+            <color>666666</color>
+            <horizontalAlignment>left</horizontalAlignment>
+            <size>0.11 0.02</size>
+        </text>
+
+        <text name="md_lbl_genre, md_lbl_releasedate, md_lbl_developer, md_lbl_players, md_lbl_rating">
+            <color>444444</color>
+        </text>
+
+        <text name="md_lbl_genre">
+            <origin>0.5 0.5</origin>
+            <pos>0.536 0.761</pos>
+            <text>Genre:</text>
+        </text>
+
+        <text name="md_genre">
+            <origin>0.5 0.5</origin>
+            <pos>0.60 0.761</pos>
+            <metadata>genre</metadata>
+        </text>
+
+        <text name="md_lbl_releasedate">
+            <origin>0.5 0.5</origin>
+            <pos>0.536 0.791</pos>
+            <text>Released:</text>
+        </text>
+
+        <datetime name="md_releasedate">
+            <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+            <fontSize>0.02</fontSize>
+            <color>666666</color>
+            <pos>0.545 0.781</pos>
+            <size>0.11 0.02</size>
+            <metadata>releasedate</metadata>
+        </datetime>
+
+        <text name="md_lbl_developer">
+            <origin>0.5 0.5</origin>
+            <pos>0.536 0.821</pos>
+            <text>Developer:</text>
+        </text>
+
+        <text name="md_developer">
+            <origin>0.5 0.5</origin>
+            <pos>0.60 0.821</pos>
+            <metadata>developer</metadata>
+        </text>
+
+        <text name="md_lbl_players">
+            <origin>0.5 0.5</origin>
+            <pos>0.536 0.851</pos>
+            <text>Players:</text>
+        </text>
+
+        <text name="md_players">
+            <origin>0.5 0.5</origin>
+            <pos>0.60 0.851</pos>
+            <metadata>players</metadata>
+        </text>
+
+        <text name="md_lbl_rating">
+            <origin>0.5 0.5</origin>
+            <pos>0.536 0.881</pos>
+            <text>Rating:</text>
+        </text>
+
+        <rating name="md_rating">
+            <origin>0.5 0.5</origin>
+            <pos>0.60 0.881</pos>
+            <size>0.11 0.02</size>
+            <color>666666</color>
+        </rating>
+
+        <text name="md_description">
+            <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+            <fontSize>0.02</fontSize>
+            <color>888888</color>
+            <origin>0.0 0.0</origin>
+            <pos>0.664 0.744</pos>
+            <size>0.25 0.16</size>
+            <container>true</container>
+            <metadata>description</metadata>
+        </text>
+
+        <video name="md_video">
+            <origin>0.5 0.5</origin>
+            <pos>0.6925 0.3915</pos>
+            <maxSize>0.4167 0.5556</maxSize>
+            <imageType>miximage</imageType>
+            <delay>1.7</delay>
+            <scrollFadeIn>true</scrollFadeIn>
+            <scanlines>true</scanlines>
+        </video>
+    </view>
+
+    <view name="system, gamelist">
+        <helpsystem name="help">
+            <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
+            <fontSize>0.021</fontSize>
+            <pos>0.1 0.97</pos>
+            <textColor>5f5f5f</textColor>
+            <iconColor>505050</iconColor>
+        </helpsystem>
+    </view>
+</theme>

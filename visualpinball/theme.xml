@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>VIRTUAL PINBALL</text>
+        </text>
+        <text name="long_description">
+            <text>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines.</text>
+        </text>
+    </view>
+</theme>

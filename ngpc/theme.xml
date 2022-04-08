@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1999 · 16-BIT HANDHELD CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The Neo Geo Pocket Color is the successor to SNK's monochrome Neo Geo Pocket, with the Color being fully backward compatible.</text>
+        </text>
+    </view>
+</theme>

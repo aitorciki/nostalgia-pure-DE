@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>FAVORITE TITLES</text>
+        </text>
+        <text name="long_description">
+            <text>Access and quickly play your favorite games across the entire library.</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>GAME GENRE</text>
+        </text>
+        <text name="long_description">
+            <text>In a role-playing game, the player controls the actions of one or several characters, immersed in an often fantastical world.</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>GAME GENRE</text>
+        </text>
+        <text name="long_description">
+            <text>In a shoot 'em up, the player shoots large numbers of enemies while dodging obstacles, often in a spacecraft or aircraft.</text>
+        </text>
+    </view>
+</theme>

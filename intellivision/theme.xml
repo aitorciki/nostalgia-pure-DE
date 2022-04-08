@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1980 · 8-BIT CONSOLE</text>
+        </text>
+        <text name="long_description">
+            <text>The Intellivision is a home video game console released by Mattel Electronics, and was in direct competition with the Atari 2600.</text>
+        </text>
+    </view>
+</theme>

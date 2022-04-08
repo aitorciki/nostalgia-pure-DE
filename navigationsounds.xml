@@ -1,0 +1,10 @@
+<theme>
+    <view name="all">
+        <sound name="scroll">
+            <path>./_assets/sounds/se_sys_cursor.wav</path>
+        </sound>
+        <sound name="launch">
+            <path>./_assets/sounds/se_sys_click_game.wav</path>
+        </sound>
+    </view>
+</theme>

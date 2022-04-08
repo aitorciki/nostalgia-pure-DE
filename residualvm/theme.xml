@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>CROSS PLATFORM COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC.</text>
+        </text>
+    </view>
+</theme>

@@ -1,0 +1,11 @@
+<theme>
+    <include>./../theme.xml</include>
+    <view name="system">
+        <text name="short_description">
+            <text>1977 · 8-BIT COMPUTER</text>
+        </text>
+        <text name="long_description">
+            <text>The TRS-80 is a desktop microcomputer and was one of the earliest mass-produced and mass-marketed retail personal computers.</text>
+        </text>
+    </view>
+</theme>
