@@ -2,24 +2,6 @@
     <include>./navigationsounds.xml</include>
 
     <view name="system">
-        <video name="background_video">
-            <path>./_assets/backgrounds/${system.theme}.mp4</path>
-            <origin>0 0</origin>
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <delay>0</delay>
-            <fadeInTime>0</fadeInTime>
-        </video>
-
-        <!-- avoid on-scroll video flickering by rendering a background image behind -->
-        <image name="background_video_fallback">
-            <path>./_assets/fallbacks/${system.theme}.png</path>
-            <origin>0 0</origin>
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <zIndex>20</zIndex>
-        </image>
-
         <image name="background">
             <tile>false</tile>
             <path>./_assets/system-global-bg.png</path>
@@ -76,6 +58,39 @@
             <size>0.20 0.1</size>
         </text>
     </view>
+
+    <variant name="system_videos">
+        <view name="system">
+            <video name="background_video">
+                <path>./_assets/backgrounds/${system.theme}.mp4</path>
+                <origin>0 0</origin>
+                <pos>0 0</pos>
+                <size>1 1</size>
+                <delay>0</delay>
+                <fadeInTime>0</fadeInTime>
+            </video>
+
+            <!-- avoid on-scroll video flickering by rendering a background image behind -->
+            <image name="background_video_fallback">
+                <path>./_assets/fallbacks/${system.theme}.png</path>
+                <origin>0 0</origin>
+                <pos>0 0</pos>
+                <size>1 1</size>
+                <zIndex>20</zIndex>
+            </image>
+        </view>
+    </variant>
+
+    <variant name="system_pictures">
+        <view name="system">
+            <image name="background_picture">
+                <path>./_assets/backgrounds/${system.theme}.png</path>
+                <origin>0 0</origin>
+                <pos>0 0</pos>
+                <size>1 1</size>
+            </image>
+        </view>
+    </variant>
 
     <view name="gamelist">
         <image name="background">

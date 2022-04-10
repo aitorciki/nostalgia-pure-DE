@@ -1,1 +1,13 @@
-<themeCapabilities />
+<themeCapabilities>
+    <aspectRatio>16:9</aspectRatio>
+
+    <variant name="system_videos">
+        <label>System Videos</label>
+        <selectable>true</selectable>
+    </variant>
+    
+    <variant name="system_pictures">
+        <label>System Pictures</label>
+        <selectable>true</selectable>
+    </variant>
+</themeCapabilities>
