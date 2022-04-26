@@ -27,12 +27,12 @@
             <origin>0.5 0.5</origin>
             <pos>0.232 0.415</pos>
             <size>1 0.16</size>
-            <logo>./_assets/logos/${system.theme}.svg</logo>
-            <logoScale>0.75</logoScale>
-            <logoSize>0.32 0.20</logoSize>
-            <logoRotationOrigin>100 0.5</logoRotationOrigin>
-            <logoRotation>0.5</logoRotation>
-            <maxLogoCount>2</maxLogoCount>
+            <staticItem>./_assets/logos/${system.theme}.svg</staticItem>
+            <itemScale>0.75</itemScale>
+            <itemSize>0.32 0.20</itemSize>
+            <itemRotationOrigin>100 0.5</itemRotationOrigin>
+            <itemRotation>0.5</itemRotation>
+            <maxItemCount>2</maxItemCount>
         </carousel>
 
         <text name="system_info">
