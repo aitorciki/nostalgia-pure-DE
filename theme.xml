@@ -22,7 +22,7 @@
         </text>
 
         <carousel name="system_carousel">
-            <type>vertical_wheel</type>
+            <type>verticalWheel</type>
             <color>00000000</color>
             <origin>0.5 0.5</origin>
             <pos>0.232 0.415</pos>
